@@ -4,7 +4,7 @@ This is a simple analog clock implemented using HTML, CSS, and JavaScript. The c
 
 ## Preview
 
-![Analog Clock](https://rohitpundir98.github.io/Analog-CLock/)
+[Analog Clock](https://rohitpundir98.github.io/Analog-CLock/)
 
 ## Features
 
